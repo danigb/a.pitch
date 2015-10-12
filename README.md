@@ -1,2 +1,5 @@
 # a.pitch
-Abstract pitch transformations
+
+```bash
+npm i a.pitch
+```

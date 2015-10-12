@@ -1,0 +1,28 @@
+{
+  "name": "a.pitch",
+  "version": "0.0.0",
+  "description": "Abstract pitch transformations",
+  "main": "index.js",
+  "scripts": {
+    "test": "vows --spec test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danigb/a.pitch.git"
+  },
+  "keywords": [
+    "pitch",
+    "music",
+    "theory",
+    "interval"
+  ],
+  "author": "danigb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danigb/a.pitch/issues"
+  },
+  "homepage": "https://github.com/danigb/a.pitch#readme",
+  "devDependencies": {
+    "vows": "^0.8.1"
+  }
+}
